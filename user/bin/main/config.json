@@ -1,0 +1,10 @@
+{
+    "Database":{
+        "MongoDb":{
+
+        },
+        "MySql":{
+            
+        }
+    }
+}
